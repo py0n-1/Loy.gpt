@@ -1,2 +1,2 @@
 # Loy.gpt
-Some about money
+Smart Portfolio Manager
